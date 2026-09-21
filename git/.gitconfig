@@ -69,7 +69,7 @@
   cmd = nvim -f -c \"Gvdiffsplit!\" \"$MERGED\"
 
 [github]
-  user = mortenwh
+  user = lottevanh
 
 [core]
   excludesfile = ~/.gitignore_global
